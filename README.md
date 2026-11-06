@@ -35,4 +35,4 @@ This repository supplies source replacements. Simulation outputs and experiment 
 
 The combined distribution is provided under **GNU GPL version 3 or later**, consistent with the RegCM license notices in the included source files. See [LICENSE](LICENSE). Original file-level copyright and license notices are retained. Upstream MIT licenses and the CESM copyright notice are reproduced in [LICENSES/](LICENSES/); see [NOTICE.md](NOTICE.md) for attribution.
 
-Maintainer: Qian Zhang, Laoshan Laboratory.
+Maintainer: Qian Zhang, Nanjing University.
