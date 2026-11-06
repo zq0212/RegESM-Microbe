@@ -1,6 +1,6 @@
 # RegESM-Microbe
 
-Source-code replacements for coupling CLM-Microbe to RegCM-Chem-YIBs, supporting the study *Divergent Responses of Methane Emissions to Nitrogen and Sulfur Deposition across Asian Wetlands*.
+Source-code replacements for coupling CLM-Microbe to RegCM-Chem-YIBs.
 
 ## Upstream models
 
