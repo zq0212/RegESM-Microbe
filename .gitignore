@@ -1,0 +1,20 @@
+# Compiler outputs
+*.o
+*.mod
+*.smod
+*.a
+*.so
+*.dll
+*.exe
+
+# Editor and source backups
+*.bak
+*.BAK
+*.F90bak
+*.old
+*~
+.DS_Store
+
+# Machine-generated build files; keep the portable templates
+/clm4.5/Makefile
+/chemlib/Makefile
